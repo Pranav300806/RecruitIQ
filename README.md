@@ -1,4 +1,4 @@
-# 🧠 RecruitIQ
+# RecruitIQ
 
 RecruitIQ is an AI-powered candidate discovery system designed to make hiring smarter and more meaningful. Instead of relying on exact keyword matches, it understands the context behind a candidate's role and skills using semantic embeddings. This helps recruiters discover talented candidates who might otherwise be missed by traditional ATS systems.
 
