@@ -38,5 +38,4 @@ The program generates a CSV file containing candidate rankings, scores, and expl
 
 ---
 
-Built with passion by a 4-member team for the **India Runs – Data & AI Challenge 2026 (Hack2skill × Redrob AI)**.
 
